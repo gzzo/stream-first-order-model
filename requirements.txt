@@ -63,7 +63,7 @@ ptyprocess==0.6.0
 pycparser==2.18
 pydeck==0.4.0b2
 pygit==0.1
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.2.0
 pyrsistent==0.16.0
 PySocks==1.7.1
