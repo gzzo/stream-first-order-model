@@ -45,7 +45,7 @@ mistune==0.8.4
 nbconvert==5.6.1
 nbformat==5.0.7
 networkx==2.1
-notebook==6.0.3
+notebook==6.4.10
 numpy==1.15.0
 opencv-python==4.2.0.34
 packaging==20.4
